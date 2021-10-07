@@ -36,6 +36,8 @@ p{
   display: grid; 
   grid-column: 2/3; 
   grid-row: 1/2; 
+  animation: fadeIn 5s; 
+  animation-delay: 2s; 
 }
 
 .item3{
