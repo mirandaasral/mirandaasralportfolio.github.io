@@ -36,18 +36,9 @@ p{
   display: grid; 
   grid-column: 2/3; 
   grid-row: 1/2; 
-  animation: fadeIn 5s; 
-  animation-delay: 2s; 
+  animation: fadeIn 5s;  
 }
 
-@keyframes fadeIn{
-    0%{
-        opacity: 0; 
-    }
-    100%{
-        opacity: 1; 
-    }
-}
 
 .item3{
     display: grid; 
