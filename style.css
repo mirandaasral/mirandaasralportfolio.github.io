@@ -73,6 +73,20 @@ p{
     animation: fadeIn 5s; 
 }
 
+.item8{
+    display: grid; 
+    grid-column: 2/3; 
+    grid-row: 3/4; 
+    animation: fadeIn 5s; 
+}
+
+.item9{
+    display: grid; 
+    grid-column: 3/4; 
+    grid-row: 3/4; 
+    animation: fadeIn 5s; 
+}
+
 
 
 
