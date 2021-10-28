@@ -66,6 +66,13 @@ p{
     animation: fadeIn 5s; 
 }
 
+.item7{
+    display: grid; 
+    grid-column: 1/2; 
+    grid-row: 3/4; 
+    animation: fadeIn 5s; 
+}
+
 
 
 
