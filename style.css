@@ -39,22 +39,27 @@ p{
   animation: fadeIn 5s;  
 }
 
-
 .item3{
+    display: grid; 
+    grid-column: 3/4; 
+    grid-row: 1/2; 
+    animation: fadeIn 5s; 
+}
+.item4{
     display: grid; 
     grid-column: 1/2; 
     grid-row: 2/3; 
     animation: fadeIn 5s; 
 }
 
-.item4{
+.item5{
     display: grid; 
     grid-column: 2/3; 
     grid-row: 2/3; 
     animation: fadeIn 5s; 
 }
 
-.item5{
+.item6{
     display: grid; 
     grid-column: 3/4; 
     grid-row: 2/3; 
