@@ -157,6 +157,7 @@ p{
     color: grey;
     font-size: 2vw; 
     text-align: center; 
+    align-items: center; 
   }
 
  footer{
