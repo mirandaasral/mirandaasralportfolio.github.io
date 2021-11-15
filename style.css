@@ -163,6 +163,11 @@ p{
  footer{
      background-color: #F8E9E2; 
      grid-area: footer; 
+     height: 200px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    z-index: -1;
  }
 
  p.caption1{
