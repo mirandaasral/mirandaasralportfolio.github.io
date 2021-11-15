@@ -150,18 +150,10 @@ p{
     text-align: center; 
   }
 
-  footer{
-      position: absolute; 
-      bottom: 0; 
-      width: 100%; 
-      background-color: #FFF4F0;
-      padding: 1vw; 
-  }
-
-  body{
-      display: flex; 
-      flex-direction: column; 
-  }
+ footer{
+     display: block; 
+     background-color: #F8E9E2; 
+ }
 
 
 
