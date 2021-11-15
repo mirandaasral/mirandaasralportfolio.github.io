@@ -155,20 +155,13 @@ p{
     margin-right: auto; 
   }
   
-  .bar-big{
-    display: block; 
-    background-color: #FFF4F0;
-    max-width: 450px;
-    border-style: solid;
-    border-color: #FFF4F0;
-  }
-  
   i{
     color: grey;
   }
 
   footer{
       background-color: #FFF4F0;
+      padding: 1vw; 
   }
 
 
