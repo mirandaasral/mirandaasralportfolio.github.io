@@ -26,6 +26,7 @@ p{
     grid-column: 1/2; 
     grid-row: 1/2; 
     animation: fadeIn 5s; 
+    max-width: 375px; 
 }
 
 @keyframes fadeIn{
@@ -42,6 +43,7 @@ p{
   grid-column: 2/3; 
   grid-row: 1/2; 
   animation: fadeIn 5s;  
+  max-width: 375px; 
 }
 
 .item3{
@@ -49,12 +51,14 @@ p{
     grid-column: 3/4; 
     grid-row: 1/2; 
     animation: fadeIn 5s; 
+    max-width: 375px; 
 }
 .item4{
     display: grid; 
     grid-column: 1/2; 
     grid-row: 2/3; 
     animation: fadeIn 5s; 
+    max-width: 375px; 
 }
 
 .item5{
@@ -62,6 +66,7 @@ p{
     grid-column: 2/3; 
     grid-row: 2/3; 
     animation: fadeIn 5s; 
+    max-width: 375px; 
 }
 
 .item6{
@@ -69,6 +74,7 @@ p{
     grid-column: 3/4; 
     grid-row: 2/3; 
     animation: fadeIn 5s; 
+    max-width: 375px; 
 }
 
 .item7{
@@ -76,6 +82,7 @@ p{
     grid-column: 1/2; 
     grid-row: 3/4; 
     animation: fadeIn 5s; 
+    max-width: 375px; 
 }
 
 .item8{
@@ -83,6 +90,7 @@ p{
     grid-column: 2/3; 
     grid-row: 3/4; 
     animation: fadeIn 5s; 
+    max-width: 375px; 
 }
 
 .item9{
@@ -90,6 +98,7 @@ p{
     grid-column: 3/4; 
     grid-row: 3/4; 
     animation: fadeIn 5s; 
+    max-width: 375px; 
 }
 
 p{
