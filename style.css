@@ -131,7 +131,6 @@ p{
   li a{
     display: grid; 
     grid-auto-columns: 1fr; 
-    padding: 2vw;
     color: black;
     text-decoration: none; 
   }
