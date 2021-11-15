@@ -143,17 +143,6 @@ p{
     margin-bottom: 0; 
   }
   
-  .bar{
-    display: block; 
-    background-color: #FFF4F0;
-    max-width: 450px; 
-    border-style: solid; 
-    border-color: #FFF4F0;
-    background-color: #FFF4F0;
-    width: 100%; 
-    margin-left: auto; 
-    margin-right: auto; 
-  }
   
   i{
     color: grey;
@@ -163,6 +152,10 @@ p{
   footer{
       background-color: #FFF4F0;
       padding: 1vw; 
+  }
+
+  p.final-caption{
+      background-color: #FFF4F0; 
   }
 
 
