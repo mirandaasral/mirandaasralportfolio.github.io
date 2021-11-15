@@ -151,6 +151,7 @@ p{
   }
 
   footer{
+      position: absolute; 
       background-color: #FFF4F0;
       padding: 1vw; 
   }
