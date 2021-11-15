@@ -162,17 +162,14 @@ p{
 
  footer{
      background-color: #F8E9E2; 
+     grid-area: footer; 
  }
 
  p.caption1{
      margin-top: 0; 
  }
 
- .footer{
-     display: grid; 
-     grid-auto-columns: 1fr; 
-     background-color: #F8E9E2;
- }
+
 
 
 
