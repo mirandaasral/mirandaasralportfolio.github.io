@@ -56,6 +56,16 @@ p{
   max-width: 375px; 
 }
 
+.item2 img:hover{
+    transform: scale(1.03);
+    opacity: 1; 
+}
+
+.item2 img{
+    opacity: 0.7; 
+    transition: opacity 0.4s, transform 0.4s; 
+}
+
 .item3{
     display: grid; 
     grid-column: 3/4; 
@@ -63,12 +73,33 @@ p{
     animation: fadeIn 5s; 
     max-width: 375px; 
 }
+
+.item3 img:hover{
+    transform: scale(1.03);
+    opacity: 1; 
+}
+
+.item3 img{
+    opacity: 0.7; 
+    transition: opacity 0.4s, transform 0.4s; 
+}
+
 .item4{
     display: grid; 
     grid-column: 1/2; 
     grid-row: 2/3; 
     animation: fadeIn 5s; 
     max-width: 375px; 
+}
+
+.item4 img:hover{
+    transform: scale(1.03);
+    opacity: 1; 
+}
+
+.item4 img{
+    opacity: 0.7; 
+    transition: opacity 0.4s, transform 0.4s; 
 }
 
 .item5{
@@ -79,12 +110,32 @@ p{
     max-width: 375px; 
 }
 
+.item5 img:hover{
+    transform: scale(1.03);
+    opacity: 1; 
+}
+
+.item5 img{
+    opacity: 0.7; 
+    transition: opacity 0.4s, transform 0.4s; 
+}
+
 .item6{
     display: grid; 
     grid-column: 3/4; 
     grid-row: 2/3; 
     animation: fadeIn 5s; 
     max-width: 375px; 
+}
+
+.item6 img:hover{
+    transform: scale(1.03);
+    opacity: 1; 
+}
+
+.item6 img{
+    opacity: 0.7; 
+    transition: opacity 0.4s, transform 0.4s; 
 }
 
 .item7{
@@ -95,21 +146,16 @@ p{
     max-width: 375px; 
 }
 
-.item8{
-    display: grid; 
-    grid-column: 2/3; 
-    grid-row: 3/4; 
-    animation: fadeIn 5s; 
-    max-width: 375px; 
+.item7 img:hover{
+    transform: scale(1.03);
+    opacity: 1; 
 }
 
-.item9{
-    display: grid; 
-    grid-column: 3/4; 
-    grid-row: 3/4; 
-    animation: fadeIn 5s; 
-    max-width: 375px; 
+.item7 img{
+    opacity: 0.7; 
+    transition: opacity 0.4s, transform 0.4s; 
 }
+
 
 p{
     text-align: center; 
