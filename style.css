@@ -158,6 +158,10 @@ p{
       padding: 1vw; 
   }
 
+  body{
+      display: flex; 
+  }
+
 
 
 
