@@ -150,6 +150,7 @@ p{
     margin-right: auto;
     height: auto; 
     margin-bottom: 0; 
+    animation: fadeIn 5s; 
   }
   
   
