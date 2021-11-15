@@ -146,16 +146,12 @@ p{
   
   i{
     color: grey;
-    font-size: 10px; 
+    font-size: 8vw; 
   }
 
   footer{
       background-color: #FFF4F0;
       padding: 1vw; 
-  }
-
-  p.final-caption{
-      background-color: #FFF4F0; 
   }
 
 
