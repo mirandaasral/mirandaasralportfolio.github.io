@@ -169,6 +169,12 @@ p{
      margin-top: 0; 
  }
 
+ .footer{
+     display: grid; 
+     grid-auto-columns: 1fr; 
+     background-color: #F8E9E2;
+ }
+
 
 
 
