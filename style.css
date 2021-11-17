@@ -215,6 +215,7 @@ p{
   }
   .navigation ul li a:hover:after {
     width: 100%;
+    opacity: 1; 
   }
   
   .navigation ul li a {
