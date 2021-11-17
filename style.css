@@ -326,6 +326,10 @@ p{
     color: black; 
 }
 
+.title:hover{
+    text-decoration: underline; 
+}
+
 
 
 
