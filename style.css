@@ -290,7 +290,7 @@ p{
      margin-top: 0; 
  }
 
- ul .current{
+ .navigation ul li a:active{
      color: #000000; 
      opacity: 1; 
  }
