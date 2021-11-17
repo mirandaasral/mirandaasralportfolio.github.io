@@ -309,6 +309,10 @@ p{
      grid-row: 1/2; 
      max-width: 375px; 
  }
+ 
+ .article1-image:hover{
+     opacity: 0.7; 
+ }
 
  .title{
      font-size: 3vw; 
