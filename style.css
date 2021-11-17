@@ -312,7 +312,7 @@ p{
 
  .title{
      font-size: 3vw; 
-     float: left; 
+     text-align: left; 
  }
 
  .date{
