@@ -227,7 +227,6 @@ p{
     opacity: 0;
   }
   .navigation ul li a:hover {
-    color: #fff;
     z-index: 1;
   }
   .navigation ul li a:hover:after {
