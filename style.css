@@ -317,6 +317,7 @@ p{
  .date{
      font-size: 1vw; 
      color: grey; 
+     float: left; 
  }
 
 
