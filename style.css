@@ -308,6 +308,7 @@ p{
      grid-column: 1/2; 
      grid-row: 1/2; 
      max-width: 375px; 
+     transition: opacity 0.4s; 
  }
  
  .article1-image:hover{
