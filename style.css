@@ -313,7 +313,6 @@ p{
  .title{
      font-size: 3vw; 
      text-align: left; 
-     text-decoration: none; 
  }
 
  .date{
@@ -322,7 +321,10 @@ p{
      text-align: left;  
  }
 
-
+.titleclass{
+    text-decoration: none; 
+    color: black; 
+}
 
 
 
