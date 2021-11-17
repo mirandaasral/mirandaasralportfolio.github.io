@@ -230,6 +230,7 @@ p{
   }
   .navigation ul li a:hover {
     z-index: 1;
+    opacity: 1;
   }
   .navigation ul li a:hover:after {
     z-index: -10;
