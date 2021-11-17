@@ -290,8 +290,10 @@ p{
      margin-top: 0; 
  }
 
- .current{
+ ul .current{
+     color: #000000; 
      opacity: 1; 
+     text-decoration: underline; 
  }
 
 
