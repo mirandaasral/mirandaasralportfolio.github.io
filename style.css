@@ -12,13 +12,6 @@ header{
     grid-template-rows: repeat(3, 1fr); 
     height: 100%; 
     grid-gap: 10px; 
-    padding: 10px; 
-}
-
-p{
-    font-family: "Hoefler Text"; 
-    font-size: 12vw;
-    text-align: center; 
 }
 
 .item1{
@@ -159,8 +152,8 @@ p{
 
 p{
     text-align: center; 
-    font-family: "Hoefler Text";
-    font-size: 6vw; 
+    font-family: "Glamore";
+    font-size: 3vw; 
   }
   
   .header{
@@ -202,6 +195,7 @@ p{
   .navigation ul li a {
     position: relative;
     opacity: 0.7; 
+    font-family: "Bell Gothic"; 
   }
   .navigation ul li a:after{
     position: absolute;
@@ -284,8 +278,7 @@ p{
  footer{
      background-color: #F8E9E2; 
      position: relative; 
-     bottom: 0; 
-     width: 100%; 
+     display: inline-block; 
  }
 
  p.caption1{
@@ -320,12 +313,14 @@ p{
  .title{
      font-size: 2vw; 
      text-align: left; 
+     font-family: 'Times New Roman', Times, serif; 
  }
 
  .date{
      font-size: 1vw; 
      color: grey; 
-     text-align: left;  
+     text-align: left; 
+     font-family: 'Times New Roman', Times, serif 
  }
 
 .titleclass{
@@ -367,6 +362,7 @@ p{
     grid-row: 4/5; 
     max-width: 200px; 
     transition: opacity 0.4s; 
+    float: right; 
 }
 
 .article4-image:hover{
@@ -395,4 +391,87 @@ p{
 
 .article6-image:hover{
     opacity: 0.7; 
+}
+
+.article7-image{
+    display: grid; 
+    grid-column: 1/2; 
+    grid-row: 7/8; 
+    max-width: 375px; 
+    transition: opacity 0.4s; 
+}
+
+.article7-image:hover{
+    opacity: 0.7; 
+}
+
+.article8-image{
+    display: grid; 
+    grid-column: 1/2; 
+    grid-row: 8/9; 
+    max-width: 200px; 
+    transition: opacity 0.4s; 
+}
+
+.article8-image:hover{
+    opacity: 0.7; 
+}
+
+.article9-image{
+    display: grid; 
+    grid-column: 1/2; 
+    grid-row: 9/10; 
+    max-width: 375px; 
+    transition: opacity 0.4s; 
+}
+
+.article9-image:hover{
+    opacity: 0.7; 
+}
+
+.article10-image{
+    display: grid; 
+    grid-column: 1/2; 
+    grid-row: 10/11; 
+    max-width: 375px; 
+    transition: opacity 0.4s; 
+}
+
+.article10-image:hover{
+    opacity: 0.7; 
+}
+
+.footer{
+    background-color: #FFF4F0; 
+    display: grid; 
+    grid-column: 1/4; 
+    grid-row: 4/5; 
+    padding: 10px; 
+}
+
+.footer_name{
+    font-family: "Glamore"; 
+    text-align: left; 
+    font-size: 2vw; 
+}
+
+.footer_ul{
+    text-align: left; 
+}
+
+.footer{
+    display: grid; 
+    grid-template-columns: auto auto; 
+}
+
+.footer-1{
+    display: grid; 
+    grid-column: 1/2; 
+    grid-row: 1/2; 
+}
+
+.footer-2{
+    display: grid; 
+    grid-column: 2/3; 
+    grid-row: 1/2; 
 }
